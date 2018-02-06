@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATREMI.Model", "SATREMI.Model\SATREMI.Model.csproj", "{522E56FA-75EE-459B-900B-194B6D2FEE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMETRI.Data", "SAMETRI.Data\SAMETRI.Data.csproj", "{7A48F489-1A9C-41F9-B114-054247EF947E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMETRI.Logic", "SAMETRI.Logic\SAMETRI.Logic.csproj", "{2BE199A2-8298-4291-87B7-A4529D883740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMIETRI.Web", "SAMIETRI.Web\SAMIETRI.Web.csproj", "{260BCF82-8977-4F81-95E0-D03FD70A29FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522E56FA-75EE-459B-900B-194B6D2FEE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522E56FA-75EE-459B-900B-194B6D2FEE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522E56FA-75EE-459B-900B-194B6D2FEE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522E56FA-75EE-459B-900B-194B6D2FEE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A48F489-1A9C-41F9-B114-054247EF947E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A48F489-1A9C-41F9-B114-054247EF947E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A48F489-1A9C-41F9-B114-054247EF947E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A48F489-1A9C-41F9-B114-054247EF947E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE199A2-8298-4291-87B7-A4529D883740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE199A2-8298-4291-87B7-A4529D883740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE199A2-8298-4291-87B7-A4529D883740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE199A2-8298-4291-87B7-A4529D883740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260BCF82-8977-4F81-95E0-D03FD70A29FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260BCF82-8977-4F81-95E0-D03FD70A29FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260BCF82-8977-4F81-95E0-D03FD70A29FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260BCF82-8977-4F81-95E0-D03FD70A29FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
